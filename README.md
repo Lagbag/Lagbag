@@ -28,3 +28,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lagbag/Lagbag/output/github-snake.svg" />
   <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Lagbag/Lagbag/output/github-snake.svg" />
 </picture>
+
