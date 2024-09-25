@@ -11,10 +11,10 @@ jobs:
 
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Generate Snake animation
-        uses: Platane/snk@v3
+        uses: Platane/snk@v2
         with:
           github_user_name: Lagbag
 
