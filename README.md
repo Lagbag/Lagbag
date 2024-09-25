@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет, я Виктор! 👋
 
-<!--
-**Lagbag/Lagbag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐍 Python/Django разработчик | 🤖 Разработчик автоответчиков для маркетплейсов (Wildberries/Ozon)
 
-Here are some ideas to get you started:
+### 🔧 Технологии, с которыми работаю:
+- **Python** (Django, Django REST Framework, FastAPI)
+- **Базы данных**: PostgreSQL, Redis
+- **Очереди задач**: Celery, RabbitMQ
+- **Контейнеризация**: Docker
+- **API**: RESTful APIs, GraphQL
+- **Frontend**: HTML, CSS, JavaScript (Vue.js, React)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Текущий проект:
+- **Автоответчик для маркетплейсов (Wildberries/Ozon)** — автоматизация ответа на клиентские запросы с интеграцией по API.
+
+### 📈 Моя статистика на GitHub:
+![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=Lagbag&show_icons=true&theme=dark)
