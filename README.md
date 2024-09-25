@@ -20,5 +20,5 @@
 
 ### 📈 Моя статистика на GitHub:
 ![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=Lagbag&show_icons=true&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ТвоеИмя&layout=compact&theme=radical)
-![Активность](https://github-readme-activity-graph.cyclic.app/graph?username=ТвоеИмя&theme=github)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagbag&layout=compact&theme=radical)
+![Активность](https://github-readme-activity-graph.cyclic.app/graph?username=Lagbag&theme=github)
