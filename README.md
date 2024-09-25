@@ -20,7 +20,7 @@
 
 ### 📈 Моя статистика на GitHub:
 ![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=Lagbag&show_icons=true&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagbag&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suslicke&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🐍 Змейка на графике активности
 ![Snake animation](https://github.com/ТвоеИмяНаGitHub/ТвоеИмяНаGitHub/blob/output/github-contribution-grid-snake.svg)
