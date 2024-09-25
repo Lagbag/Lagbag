@@ -23,4 +23,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagbag&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🐍 Змейка на графике активности
-![Snake animation](https://github.com/ТвоеИмяНаGitHub/ТвоеИмяНаGitHub/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Lagbag/Lagbag/blob/output/github-contribution-grid-snake.svg)
