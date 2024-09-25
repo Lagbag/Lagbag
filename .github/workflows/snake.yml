@@ -19,7 +19,7 @@ jobs:
           github_user_name: Lagbag
 
       - name: Push the generated animation
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
