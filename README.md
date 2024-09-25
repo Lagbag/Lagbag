@@ -21,11 +21,3 @@
 ### 📈 Моя статистика на GitHub:
 ![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=Lagbag&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagbag&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🐍 Змейка на графике активности
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lagbag/Lagbag/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lagbag/Lagbag/output/github-snake.svg" />
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Lagbag/Lagbag/output/github-snake.svg" />
-</picture>
-
