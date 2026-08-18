@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a1b2e"/>
+      <stop offset="1" stop-color="#151626"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#262740" stroke-width="1" fill="none"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="200" rx="8" fill="url(#bg)"/>
+  <rect width="1200" height="200" rx="8" fill="url(#grid)" opacity="0.3"/>
+
+  <rect x="36" y="42" width="4" height="116" rx="2" fill="url(#accent)"/>
+
+  <text x="60" y="103" font-family="'Segoe UI', 'Inter', Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="1" fill="#ffffff">VIKTOR <tspan fill="url(#accent)">/</tspan> LAGBAG</text>
+
+  <text x="60" y="140" font-family="'Segoe UI', 'Inter', Arial, sans-serif" font-size="19" fill="#a0a3b8">backend developer · automation · APIs · Rust</text>
+
+  <rect x="60" y="154" width="380" height="2" rx="1" fill="url(#accent)"/>
+
+  <text x="1164" y="142" text-anchor="end" font-family="'Segoe UI', 'Inter', Arial, sans-serif" font-size="14" fill="#7d8096">python · rust · postgres</text>
+  <text x="1164" y="164" text-anchor="end" font-family="'Segoe UI', 'Inter', Arial, sans-serif" font-size="14" fill="#7d8096">fastapi · django · docker</text>
+</svg>
